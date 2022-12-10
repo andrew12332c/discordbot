@@ -2,7 +2,7 @@ import discord
 import requests
 
 # Replace TOKEN with the token for your bot account
-client = discord.Client(token="TOKEN")
+client = discord.Client(token="MTA1MDgzNDI4ODg1MTA0MjQyNQ.G86YDx.-QQ6PrFkSorxWSbdvcvTuTzhbkOZTdvCATlbGQ")
 
 # This function will be called when the bot receives a message
 @client.event
